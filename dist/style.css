@@ -76,7 +76,7 @@
   stroke: var(--svg-stroke, none);
   stroke-width: var(--svg-stroke-width, 2);
 }
-.add-to-cart .morph {
+/* .add-to-cart .morph {
   --svg-width: 64px;
   --svg-height: 13px;
   --svg-left: 50%;
@@ -86,7 +86,7 @@
   transition: fill 0.25s;
   pointer-events: none;
   margin-left: -32px;
-}
+} */
 .add-to-cart .shirt,
 .add-to-cart .cart {
   pointer-events: none;
